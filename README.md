@@ -26,10 +26,6 @@ Aiohttp
 
 BeautifulSoup4
 
-Installation
-git clone https://github.com/yourusername/telegram-freelance-bot.git
-cd telegram-freelance-bot
-pip install -r requirements.txt
 
 Configuration
 
@@ -80,11 +76,6 @@ Aiohttp
 
 BeautifulSoup4
 
-Установка
-git clone https://github.com/yourusername/telegram-freelance-bot.git
-cd telegram-freelance-bot
-pip install -r requirements.txt
-
 Настройка
 
 Установите следующие константы в коде:
@@ -103,5 +94,6 @@ python bot.py
 Затем отправьте команду /start в Telegram. Бот:
 
 Отправит все текущие релевантные проекты.
+
 
 Будет проверять новые проекты каждый час и уведомлять вас.
